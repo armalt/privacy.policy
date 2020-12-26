@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## IGP Manager Tools Policy and Privacy
 
 You can use the [editor on GitHub](https://github.com/armalt/privacy.policy/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
